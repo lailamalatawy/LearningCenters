@@ -1,4 +1,4 @@
-# LearningCenters
+# Learning Centers
  A web platform that connects schools all over Egypt, where people can view all schools subscribed to the website and apply for their kids to any school(s) of their choice. Once their kids are admitted, parents can then track their progress online through the website. 
 
 ## Usage
