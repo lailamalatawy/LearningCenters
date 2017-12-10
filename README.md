@@ -12,6 +12,5 @@
 
 
 ## Disclaimer:
-
-+ This app is made only for academic purposes.
+This app is made only for academic purposes.
 
