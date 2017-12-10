@@ -11,6 +11,6 @@
 4. Open your browser on ``` http://localhost/index.php ```. 
 
 
-## Disclaimer:
+## Disclaimer
 This app is made only for academic purposes.
 
